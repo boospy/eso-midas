@@ -10,7 +10,7 @@ various others. This package includes the full version with all features and the
 
 ## Installation of the package also over us signed repository for Ubuntu 16.04.
 
-[https://apt.iteas.at/]
+https://apt.iteas.at
 
 ### Type as root:
 
