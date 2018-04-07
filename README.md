@@ -18,3 +18,6 @@ https://apt.iteas.at
 	echo "deb https://apt.iteas.at/iteas xenial main" > /etc/apt/sources.list.d/iteas.list
 	apt update
 	apt install eso-midas-tsa
+
+After installation you have to add your USER to the midas group and relogin, to have
+writeaccess to the "baches" folder.
