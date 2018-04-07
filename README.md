@@ -20,4 +20,4 @@ https://apt.iteas.at
 	apt install eso-midas-tsa
 
 After installation you have to add your USER to the midas group and relogin, to have
-writeaccess to the "baches" folder. (/usr/local/share/midas/VERSIOM/contrib/baches)
+writeaccess to the "baches" folder. (/usr/local/share/midas/VERSION/contrib/baches)
