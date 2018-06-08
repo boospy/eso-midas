@@ -16,10 +16,10 @@ https://apt.iteas.at
 
 	apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 2FAB19E7CCB7F415
 
-For Ubuntu 18.04
+	For Ubuntu 18.04
 	echo "deb https://apt.iteas.at/iteas bionic main" > /etc/apt/sources.list.d/iteas.list
 
-For Ubuntu 16.04
+	For Ubuntu 16.04
 	echo "deb https://apt.iteas.at/iteas xenial main" > /etc/apt/sources.list.d/iteas.list
 	apt update
 	apt install eso-midas-tsa
