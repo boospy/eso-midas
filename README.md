@@ -9,9 +9,11 @@ surface photometry, image sharpening and decomposition, statistics and
 various others. This package includes the full version with all features and the TSA-Patch.
 
 ## Installation of the package also over us signed repository for Ubuntu 16.04 and 18.04.
-
+Repository:
 https://apt.iteas.at
 
+WIKI:
+https://deepdoc.at/dokuwiki/doku.php?id=rund_um_den_desktop:eso-midas_installation_auf_ubuntu
 ### Type as root:
 
 	apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 2FAB19E7CCB7F415
